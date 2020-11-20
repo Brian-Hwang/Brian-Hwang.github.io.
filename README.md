@@ -1,1 +1,2 @@
-# Brian-Hwang.github.io.
+# Brian Hwang's Static Page
+Page cite at https://brian-hwang.github.io/
